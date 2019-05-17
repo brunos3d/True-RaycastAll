@@ -15,6 +15,6 @@ Versatile, fast and practical raycast implementation for shooting games and more
 	✔️ Bonus: A Simple Overlay Shader for Bulletholes.
 
 <p align="center">
-	<img width="460" height="300" src="images/image1.png">
-	<img width="460" height="300" src="images/image2.png">
+	<img height="300" src="images/image1.png">
+	<img height="300" src="images/image2.png">
 </p>
