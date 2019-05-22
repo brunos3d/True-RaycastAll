@@ -1,4 +1,4 @@
-# TrueRaycastAll
+# True-RaycastAll
 
 This asset was created for those who need to use RaycastAll and detect multiple hits on the same object,
 bringing information like Ray's entry point and exit, maximum distance, number of hits per Ray casted.
