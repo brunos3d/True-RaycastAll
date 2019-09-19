@@ -14,6 +14,11 @@ Versatile, fast and practical raycast implementation for shooting games and more
 	✔️ Commented lines.
 	✔️ Bonus: A Simple Overlay Shader for Bulletholes.
 
+https://www.youtube.com/watch?v=9HLPvgSQYRw
+https://www.youtube.com/watch?v=b25Mb4wcGR8
+https://www.youtube.com/watch?v=K_aYgpEEtZw
+https://www.youtube.com/watch?v=wisa1VGHirU
+
 <p align="center">
 	<img height="150" src="images/image1.png">
 	<img height="150" src="images/image2.png">
